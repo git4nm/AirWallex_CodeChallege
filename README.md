@@ -16,7 +16,7 @@ This project is created for testing an API.
 ## After Execution
    1. Once the test cases are executed navigate to the project folder <br>
    2. Open folder "Results" in it <br>
-   3. Open the file 'TEST-TestCustomerBankDetails.html' <br>
+   3. Open the file 'TEST-TestCustomerBankDetails.xml' <br>
    4. First line in this file tells number of test cases Pass and Fail <br>
    5. Text files generated in Results folder are the files with name of failed test cases and its details.
 
