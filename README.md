@@ -2,7 +2,7 @@
 This project is created for testing an API.
 
 ## Getting Started
-  1. This porject contains automated test case for testing an API meant to save customer bank details <br>
+  1. This porject contains automated test case for testing an API which is created to collect customer bank details <br>
   2. SoapUI 5.4.0 (Open Source) is used to automate the test cases <br>
   3. To execute the test cases, download and save the project folder on 'C' drive of local machine (i.e. C:\AirWallex_CodeChallenge)<br>
   
