@@ -1,0 +1,8 @@
+1.
+cd {Localtion of project folder}\soapui\bin
+
+2.
+testrunner.bat -r -j -f{Localtion of project folder}\Results -PURL="http://preview.airwallex.com:30001" {Localtion of project folder}\App\AirWallexTest-soapui-project.xml
+
+
+
