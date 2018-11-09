@@ -36,7 +36,7 @@ This project is created for testing an API.
    5. Text files generated in Results folder are the files with name of failed test cases and its details.
 
 ## Defects Reported
-  1. Refer the file "Defect_Report_For_Developer" for defects found during test exection
+  1. Refer the file "Defect_Report_For_Developer.docx" for defects found during test exection
 
   
     
