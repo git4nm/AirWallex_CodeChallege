@@ -4,11 +4,12 @@ This project is created for testing an API.
 ## Getting Started
   1. This porject contains automated test case for testing an API which is created to collect customer bank details <br>
   2. SoapUI 5.4.0 (Open Source) is used to automate the test cases <br>
-  3. To execute the test cases, download and save the project folder on 'C' drive of local machine (i.e. C:\AirWallex_CodeChallenge)<br>
+  3. To execute the test cases, download the project on local drive
+  4. File 'TechDesc.docx' describes the purpose of files and folders created in this project
   
 ### Prerequisites: System Requirements to execute soapui test cases
   1. Windows XP or later <br>
-  2. Java 7 <br> 
+  2. Java 7 <br>
   
 ## How to change command
   ### Change folder path in the command
