@@ -17,7 +17,7 @@ This project is created for testing an API.
   
   ### Change endpoint in the command
   1. Open file "CommandToExecute.txt" <br>
-  2. To change the endpoint: Change the value for parameter "-PURL" in 'testRunner' command <br>
+  2. To change the endpoint: Change the value for parameter "-PURL" in 'testrunner' command <br>
   3. Currently it is set as PURL="http://preview.airwallex.com:30001/bank" 
   
   ### Execute test cases after changing command
