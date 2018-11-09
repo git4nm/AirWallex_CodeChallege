@@ -11,7 +11,7 @@ This project is created for testing an API.
   2. Java 7 <br>
   
 ## Test Case execution
-  1. Keep the project folder is on 'C' drive (C:\AirWallex_CodeChallenge) and execute 'Command.bat'
+  1. Keep the project folder on 'C' drive as (C:\AirWallex_CodeChallenge) to execute 'Command.bat'
   
 ## After Execution
    1. Once the test cases are executed navigate to the project folder <br>
