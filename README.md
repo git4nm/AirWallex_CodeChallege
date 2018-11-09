@@ -8,21 +8,8 @@ This project is created for testing an API.
   
 ### Prerequisites: System Requirements to execute soapui test cases
   1. Windows XP or later <br>
-  2. Java 7 <br>
+  2. Java 7 <br> 
   
-## Test Case execution
-  1. Keep the project folder on 'C' drive as (C:\AirWallex_CodeChallenge) to execute 'Command.bat'
-  
-## After Execution
-   1. Once the test cases are executed navigate to the project folder <br>
-   2. Open folder "Results" in it <br>
-   3. Open the file 'TEST-TestCustomerBankDetails.xml' <br>
-   4. First line in this file tells number of test cases Pass and Fail <br>
-   5. Text files generated in Results folder are the files with name of failed test cases and its details.
-
-## Defects Reported
-  1. Refer the file "Defect_Report_For_Developer" for defects found during test exection
-   
 ## How to change command
   ### Change folder path in the command
   1. Open the file "CommandToExecute.txt" <br>
@@ -40,7 +27,17 @@ This project is created for testing an API.
   4. Copy the second command in the file "CommandToExecute.txt" <br>
   5. Paste it in the command prompt <br>
   6. Hit Enter
-  
+
+## After Execution
+   1. Once the test cases are executed navigate to the project folder <br>
+   2. Open folder "Results" in it <br>
+   3. Open the file 'TEST-TestCustomerBankDetails.xml' <br>
+   4. First line in this file tells number of test cases Pass and Fail <br>
+   5. Text files generated in Results folder are the files with name of failed test cases and its details.
+
+## Defects Reported
+  1. Refer the file "Defect_Report_For_Developer" for defects found during test exection
+
   
     
   
