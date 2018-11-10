@@ -11,21 +11,22 @@ This project is created for testing an API.
   1. Windows XP or later <br>
   2. Java 7 <br>
   
-## How to change command
-  ### Change folder path in the command
-  1. Open the file "CommandToExecute.txt" <br>
-  2. Paste the file path of the folder where "{Localtion of project folder}" is mentioned in "CommandToExecute.txt"
+## Perform following Steps for test execution
+  ### Set project folder path in the command
+  1. Navigate to the folder where you have downloaded the project. Copy the folder path
+  2. Open the file "CommandToExecute.txt" <br>
+  2. Replace the folder path with the text -"{Localtion of project folder}" in "CommandToExecute.txt"
   
   ### Change endpoint in the command
   1. Open file "CommandToExecute.txt" <br>
   2. To change the endpoint: Change the value for parameter "-PURL" in 'testrunner' command <br>
   3. Currently it is set as PURL="http://preview.airwallex.com:30001/bank" 
   
-  ### Execute test cases after changing command
+  ### Execute test cases from commandline
   1. Open Command prompt <br>
-  2. Copy the first command in the file "CommandToExecute.txt" <br>
+  2. Copy the first command in the file "CommandToExecute.txt" <br> (For example: cd C:\AirWallex_CodeChallenge\soapui\bin)
   3. Paste it in the command prompt <br>
-  4. Copy the second command in the file "CommandToExecute.txt" <br>
+  4. Copy the second command in the file "CommandToExecute.txt" <br> 
   5. Paste it in the command prompt <br>
   6. Hit Enter
 
