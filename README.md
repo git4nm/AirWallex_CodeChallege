@@ -12,7 +12,7 @@ This project is created for testing an API.
   2. Java 7 <br>
   
 ## Perform following Steps for test execution
-  ###Executeing Test cases
+  ### Executeing Test cases
   1. Run "ExecuteTests.bat" file (located in the dowloaded project folder)
   2. For more details refer "TestDesc.docx" (located in the downloaded project folder)
   
