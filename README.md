@@ -12,15 +12,10 @@ This project is created for testing an API.
   2. Java 7 <br>
   
 ## Perform following Steps for test execution
-  ### Set project folder path in the command
-  1. Navigate to the folder where you have downloaded the project. Copy the folder path
-  2. Open the file "CommandToExecute.txt" <br>
-  2. Replace the folder path with the text -"{Localtion of project folder}" in "CommandToExecute.txt"
+  ###Executeing Test cases
+  1. Run "ExecuteTests.bat" file (located in the dowloaded project folder)
+  2. For more details refer "TestDesc.docx" (located in the downloaded project folder)
   
-  ### Change endpoint in the command
-  1. Open file "CommandToExecute.txt" <br>
-  2. To change the endpoint: Change the value for parameter "-PURL" in 'testrunner' command <br>
-  3. Currently it is set as PURL="http://preview.airwallex.com:30001/bank" 
   
   ### Execute test cases from commandline
   1. Open Command prompt <br>
