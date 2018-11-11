@@ -10,4 +10,4 @@ set rootdir=%cd%
 chdir /d %rootdir%\soapui\bin
 
 set EndPoint=%EndPoint: =%
-testrunner.bat -r -j -f%rootdir%\Results -PURL="%EndPoint%" %rootdir%\App\AirWallexTest-soapui-project.xml
+testrunner.bat -r -j -a -f%rootdir%\Results -PURL="%EndPoint%" %rootdir%\App\AirWallexTest-soapui-project.xml
