@@ -9,7 +9,7 @@ This project is created for testing an API.
   
 ### Prerequisites: System Requirements to execute soapui test cases
   1. Windows XP or later 
-  2. Java 7 or later
+  2. Java 7 or later <br>
   Note: Environment variables for JAVA must be set up before exectuion.
 
 ## Perform following Steps for test execution
