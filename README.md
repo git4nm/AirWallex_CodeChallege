@@ -34,7 +34,7 @@ This project is created for testing an API.
    Notes: <br>
     Re-executing test cases will override the files in 'Results' folder. <br>
     Text files having suffix 'OK' represent successful request-response in test cases. <br>
-    Text files havng suffic 'FAILED' represent failed request-response in test cases.
+    Text files having suffix 'FAILED' represent failed request-response in test cases.
 
 ## Defects Reported
   1. Refer the file "Defect_Report_For_Developer.docx" for defects found during test exection
