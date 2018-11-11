@@ -7,7 +7,6 @@ echo ===========================================================================
 set /p EndPoint="Enter Root URL:"
 
 set rootdir=%cd%
-set rootdir=%rootdir: =%
 chdir /d %rootdir%\soapui\bin
 
 set EndPoint=%EndPoint: =%
