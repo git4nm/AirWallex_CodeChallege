@@ -30,7 +30,7 @@ This project is created for testing an API.
    2. Open folder "Results" in it
    3. Open the file 'TEST-TestCustomerBankDetails.xml'
    4. <testsuite> node shows total number of test cases, failed test cases and time taken for execution.
-   5. One text file is generated for each test case executed.
+   5. One text file is generated for each test case executed.<br>
    Notes: 
    1. Re-executing test cases will override the files in 'Results' folder.
    2. Text files having suffix 'OK' represent successful request-response in test cases.
