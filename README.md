@@ -2,9 +2,9 @@
 This project is created for testing an API.
 
 ## Getting Started
-  1. This porject contains automated test case for testing an API which is created to collect customer bank details
+  1. This porject contains automated test case to test an API for saving customer bank details
   2. SoapUI 5.4.0 (Open Source) is used to automate the test cases
-  3. To execute the test cases, download the project on local drive 
+  3. To execute the test cases, download the project on local drive
   4. Refer file 'TechDesc.docx' for purpose of folders and files created in this project
   
 ### Prerequisites: System Requirements to execute soapui test cases
