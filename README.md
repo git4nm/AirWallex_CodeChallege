@@ -2,9 +2,9 @@
 This project is created for testing an API.
 
 ## Getting Started
-  1. This porject contains automated test case for testing an API which is created to collect customer bank details <br>
-  2. SoapUI 5.4.0 (Open Source) is used to automate the test cases <br>
-  3. To execute the test cases, download the project on local drive <br>
+  1. This porject contains automated test case for testing an API which is created to collect customer bank details
+  2. SoapUI 5.4.0 (Open Source) is used to automate the test cases
+  3. To execute the test cases, download the project on local drive 
   4. Refer file 'TechDesc.docx' for purpose of folders and files created in this project
   
 ### Prerequisites: System Requirements to execute soapui test cases
@@ -13,17 +13,19 @@ This project is created for testing an API.
 
 ## Perform following Steps for test execution
   ### Executeing Test cases
-  1. Run "ExecuteTests.bat" file (located in the dowloaded project folder)
-  2. The batch file will ask API URL to execute test cases
-  3. Pass Root URL (For example:http://preview.airwallex.com:30001)
-  4. Hit Enter  
+  1. Unzip the folder "ExecuteTests.zip" (located in the dowloaded project folder)
+  2. Run "ExecuteTests.bat" file 
+  3. The batch file will ask API URL to execute test cases
+  4. Pass Root URL (For example:http://preview.airwallex.com:30001)
+  5. Hit Enter  
 
 ## After Execution
-   1. Once the test cases are executed navigate to the project folder <br>
-   2. Open folder "Results" in it <br>
-   3. Open the file 'TEST-TestCustomerBankDetails.xml' <br>
-   4. First line in this file tells number of test cases Pass and Fail <br>
+   1. Once the test cases are executed navigate to the project folder
+   2. Open folder "Results" in it
+   3. Open the file 'TEST-TestCustomerBankDetails.xml'
+   4. First line in this file shows total number of test cases and failed test cases
    5. Text files generated in Results folder are the files with name of failed test cases and its details.
+   
    Note: Re-executing test cases will override the files in 'Results' folder
 
 ## Defects Reported
