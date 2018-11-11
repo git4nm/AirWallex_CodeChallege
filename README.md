@@ -12,12 +12,16 @@ This project is created for testing an API.
   2. Java 7 or later <br>
 
 ## Perform following Steps for test execution
+  ### Download project framework
+   1. Open Github link https://github.com/git4nm/AirWallex_CodeChallege
+   2. Click on Clone and Download - click on "Download ZIP"
+   3. Unzip the project folder
+   
   ### Executeing Test cases
-  1. Unzip the folder "ExecuteTests.zip" (located in the dowloaded project folder)
-  2. Run "ExecuteTests.bat" file 
-  3. The batch file will ask API URL to execute test cases
-  4. Pass Root URL (For example:http://preview.airwallex.com:30001)
-  5. Hit Enter  
+  1. Run "ExecuteTests.bat" file (located in the dowloaded project folder) 
+  2. The batch file will ask API URL to execute test cases
+  3. Pass Root URL (For example:http://preview.airwallex.com:30001)
+  4. Hit Enter  
 
 ## After Execution
    1. Once the test cases are executed navigate to the project folder
