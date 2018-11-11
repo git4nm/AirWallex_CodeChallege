@@ -31,10 +31,10 @@ This project is created for testing an API.
    3. Open the file 'TEST-TestCustomerBankDetails.xml'
    4. <testsuite> node shows total number of test cases, failed test cases and time taken for execution.
    5. One text file is generated for each test case executed.<br>
-   Notes: 
-   1. Re-executing test cases will override the files in 'Results' folder.
-   2. Text files having suffix 'OK' represent successful request-response in test cases.
-   3. Text files havng suffic 'FAILED' represent failed request-response in test cases.
+   Notes: <br>
+    Re-executing test cases will override the files in 'Results' folder. <br>
+    Text files having suffix 'OK' represent successful request-response in test cases. <br>
+    Text files havng suffic 'FAILED' represent failed request-response in test cases.
 
 ## Defects Reported
   1. Refer the file "Defect_Report_For_Developer.docx" for defects found during test exection
