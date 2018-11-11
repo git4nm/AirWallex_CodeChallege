@@ -22,7 +22,7 @@ This project is created for testing an API.
   1. Run "ExecuteTests.bat" file (located in the dowloaded project folder) 
   2. The batch file will ask API URL to execute test cases
   3. Pass Root URL (For example:http://preview.airwallex.com:30001)
-  4. Hit Enter
+  4. Hit Enter <br>
     Note: Space in the file path must be eliminated to execute the batch file successfully.
 
 ## After Execution
