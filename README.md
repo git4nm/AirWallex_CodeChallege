@@ -11,19 +11,6 @@ This project is created for testing an API.
   1. Windows XP or later <br>
   2. Java 7 or later <br>
 
-## To install SoapUI 5.4.0
-  1. Navigate to the project folder in your local machine
-  2. Unzip the folder "SoapUI_5.4.0_OpenSource"
-  3. Execute the file "SoapUI-x64-5.4.0.exe"
-  4. Follow the instruction and install SoapUI5.4.0
-  
-## Open project in SoapUI
-  1. once SoapUI 5.4.0 is installed on your machine
-  2. Go to File Manu
-  3. Select Import project option
-  4. Navigate to the project folder and select 'AirWallexTest-soapui-project.xml' file in 'App' folder
-  5. Project will show test cases created to test the API
-
 ## Perform following Steps for test execution
   ### Executeing Test cases
   1. Run "ExecuteTests.bat" file (located in the dowloaded project folder)
@@ -39,10 +26,21 @@ This project is created for testing an API.
    5. Text files generated in Results folder are the files with name of failed test cases and its details.
    Note: Re-executing test cases will override the files in 'Results' folder
 
-
 ## Defects Reported
   1. Refer the file "Defect_Report_For_Developer.docx" for defects found during test exection
 
+## To install SoapUI 5.4.0 (It will help to visualize the test cases. Execution of test cases does not require installation.) 
+  1. Navigate to "https://www.soapui.org/downloads/latest-release.html"
+  2. Download windows installer for SoapUI Open Source (Version:5.4.0)
+  3. Execute the file "SoapUI-x64-5.4.0.exe"
+  4. Follow the instruction and install SoapUI5.4.0
+  
+## Open project in SoapUI
+  1. once SoapUI 5.4.0 is installed on your machine
+  2. Go to File Menu
+  3. Select Import project option
+  4. Navigate to the project folder and select 'AirWallexTest-soapui-project.xml' file in 'App' folder
+  5. Project will show test cases created to test the API
   
     
   
