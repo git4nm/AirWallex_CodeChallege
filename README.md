@@ -31,9 +31,9 @@ This project is created for testing an API.
    5. One text file is generated for each test case executed.
    
    Notes: 
-   1. Re-executing test cases will override the files in 'Results' folder
-   2. Text files having suffix 'OK' represent 'PASSED' test cases
-   3. Text files havng suffic 'FAILED' represent 'FAILED' test cases
+   1. Re-executing test cases will override the files in 'Results' folder.
+   2. Text files having suffix 'OK' represent successful request-response in test cases.
+   3. Text files havng suffic 'FAILED' represent failed request-response in test cases.
 
 ## Defects Reported
   1. Refer the file "Defect_Report_For_Developer.docx" for defects found during test exection
