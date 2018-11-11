@@ -29,7 +29,7 @@ This project is created for testing an API.
    1. Once the test cases are executed navigate to the project folder.
    2. Open folder "Results" in it.
    3. Open the file 'TEST-TestCustomerBankDetails.xml'.
-   4. <testsuite> node shows total number of test cases, failed test cases and time taken for execution.
+   4. "testsuite" node shows total number of test cases, failed test cases and time taken for execution.
    5. One text file is generated for each test case executed.<br>
    Notes: <br>
     Re-executing test cases will override the files in 'Results' folder. <br>
