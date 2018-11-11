@@ -8,8 +8,9 @@ This project is created for testing an API.
   4. Refer file 'TechDesc.docx' for purpose of folders and files created in this project
   
 ### Prerequisites: System Requirements to execute soapui test cases
-  1. Windows XP or later <br>
-  2. Java 7 or later <br>
+  1. Windows XP or later 
+  2. Java 7 or later
+  Note: Environment variables for JAVA must be set up before exectuion.
 
 ## Perform following Steps for test execution
   ### Download project framework
